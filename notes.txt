@@ -1,0 +1,14 @@
+# This is a core for our Forum application in term of our models and database
+
+#These are our core concepts:
+1) Thread - this is concept of thread if we create new thread, or our user create it
+2) Reply - this is every response to the thread;
+3) User - this is a concept of user;
+
+So we can say in first
+
+A. Thread is created by user
+B. Reply belong to a thread, and it belongs t oa User
+
+We will later have more concepts but it is our core concepts in term of database and models
+Now we create database using this guide...
